@@ -1,0 +1,11 @@
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.game-board{
+    width:100%;
+    height: 500px;
+    border-bottom: 15px solid rgb(36,160,35);  /* top: cima; bottom:baixo; left: esquerda; right: direita; */
+}
